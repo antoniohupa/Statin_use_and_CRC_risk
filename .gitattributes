@@ -1,2 +1,4 @@
 * linguist-vendored
-* .dta linguist-vendored=False
+* .do linguist-vendored=False
+* .R linguist-vendored=False
+* .ipynb linguist-vendored=False
