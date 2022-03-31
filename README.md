@@ -12,6 +12,7 @@ Do-file: "Statins and Colorectal Cancer Risk- A Population-Based Case- Control S
 #### *Meta-analysis performed in STATA:
 
 Data: metan_database.csv
+
 Do-file: metan.do
 
 #### *R-Studio forestplot template for Figure 2:
